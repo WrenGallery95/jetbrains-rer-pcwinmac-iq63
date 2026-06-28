@@ -1,4 +1,4 @@
-# 
+# Léger JetBrains WebStorm préréglages pour Mac OS | Turbo JetBrains WebStorm préréglages pour PC Windows. Avec client REST et lanceur de tests — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
